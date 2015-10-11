@@ -1,0 +1,29 @@
+
+a {
+  text-decoration: none;
+}
+.container {
+    width: 1170px;
+}
+
+.navbar {
+  background-color: #F8F8F8;
+  border-color: #E7E7E7;
+}
+
+.navbar-header {
+  float: left;
+}
+
+.home-logo {
+  float: left;
+  height: 50px;
+  padding: 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.navbar .navbar-right {
+  margin-right: -15px;
+  float: right;
+}
